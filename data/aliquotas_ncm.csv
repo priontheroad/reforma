@@ -1,0 +1,104 @@
+﻿ncm,descricao,imposto_seletivo,aliquota_imposto_seletivo
+0101.21.10,Animais vivos de espécie bovina,Não,0
+0201.10.00,Cortes de carne de bovino,Não,0
+0303.53.90,Peixes congelados,Não,0
+0401.10.00,Leite,Não,0
+0403.90.00,Queijo,Não,0
+1701.11.00,Açúcar refinado,Não,0
+2203.00.00,Cigarros e produtos similares,Sim,0.25
+0302.33.00,Frutos do mar,Não,0
+0405.20.00,Leite condensado,Sim,0.15
+1006.30.00,Arroz,Não,0
+1103.19.00,Farinha de trigo,Não,0
+1701.12.00,Açúcar cristal,Não,0
+2208.90.20,Bebidas alcoólicas,Sim,0.18
+2901.10.10,Ácido acético,Não,0
+3102.10.00,Fertilizantes,Sim,0.12
+3206.11.00,Tintas à base de óleos,Não,0
+3808.91.99,Produtos químicos,Sim,0.20
+3822.00.00,Lubrificantes,Não,0
+8507.20.11,Transformadores,Sim,0.15
+8517.62.29,Aparelhos de rádio,Não,0
+8703.23.00,Automóveis,Não,0
+9206.00.00,instrumentos musicais,Sim,0.10
+9404.21.00,Móveis,Não,0
+2906.11.10,Álcool etílico,Sim,0.22
+3701.00.00,Fotografias e filmes,Não,0
+4103.90.00,Cuero e peles,Sim,0.14
+6801.00.10,Pedras preciosas,Não,0
+8202.99.00,Ferramentas,Sim,0.10
+8205.59.00,Ferramentas elétricas,Não,0
+1006.30.10,Arroz tipo 1,Não,0
+0401.20.00,Leite em pó,Sim,0.30
+1701.19.00,Açúcar mascavo,Não,0
+2505.00.00,Cimento,Sim,0.05
+2202.90.00,Bebidas não alcoólicas,Sim,0.12
+2905.44.00,Álcoois,Não,0
+3507.90.11,Colas industriais,Sim,0.18
+3901.10.10,Plásticos,Não,0
+4010.32.00,Pneus,Não,0
+4107.11.00,Cuero,Sim,0.13
+4802.56.00,Papel e cartão,Não,0
+5003.90.00,Seda,Sim,0.20
+5205.11.00,Fios de algodão,Não,0
+5903.90.00,Filmes e tiras,Sim,0.17
+6006.30.00,Malhas,Sim,0.12
+6404.11.00,Sapatos,Não,0
+6601.10.00,Sombrinhas,Sim,0.15
+7102.91.00,Pedras preciosas lapidadas,Não,0
+7306.90.00,Armações metálicas,Sim,0.10
+8302.30.00,Cadeados,Não,0
+8608.00.00,Ferramentas para veículos,Sim,0.18
+9102.21.00,Relógios de pulso,Não,0
+9201.10.00,Pianos,Sim,0.12
+9301.10.00,Armas e munições,Sim,0.15
+9401.71.00,Móveis de madeira,Sim,0.20
+9503.00.00,Brinquedos,Não,0
+9603.50.00,Escovas e pincéis,Sim,0.12
+9803.00.00,Importação com isenção,Sim,0.05
+1020.10.00,Corte de carne suína,Não,0
+2209.00.10,Refrigerante,Sim,0.18
+2315.00.00,Extrato de tomates,Não,0
+2917.36.00,Óleos essenciais,Sim,0.20
+3020.20.00,Cabelos naturais,Não,0
+3112.40.00,Fertilizantes químicos,Não,0
+3305.11.00,Creme facial,Sim,0.12
+3401.30.00,Sabonetes,Não,0
+3504.10.00,Cola branca,Sim,0.18
+3805.10.00,Produtos químicos para tratamentos,Não,0
+4101.90.00,Cuero bovino,Sim,0.12
+4202.92.00,Bolsas de couro,Não,0
+4303.99.00,Peles,Sim,0.15
+4401.99.00,Madeira,Não,0
+4501.90.00,Cortiça,Sim,0.10
+4805.32.00,Papel reciclado,Não,0
+5101.90.00,Lãs,Sim,0.18
+5402.31.00,Fibras sintéticas,Não,0
+5502.50.00,Fibras de poliéster,Sim,0.15
+5703.10.00,Carpete,Não,0
+5809.00.00,Lenços e fitas,Sim,0.12
+5903.10.00,Plásticos diversos,Não,0
+6001.12.00,Malhas de lã,Sim,0.18
+6401.00.00,Sapatos de couro,Não,0
+6601.20.00,Sombrinhas de praia,Sim,0.10
+6802.93.00,Pedras para construção,Não,0
+6904.21.00,Outros artigos de porcelana,Sim,0.12
+7006.90.00,Vidros,Sim,0.15
+7103.10.00,Diamantes,Não,0
+7401.20.00,Cobre,Sim,0.10
+7601.11.00,Alumínio,Não,0
+7701.12.00,Metais preciosos,Sim,0.20
+8001.10.00,Zinco,Não,0
+8201.00.00,Ferramentas manuais,Sim,0.12
+8301.20.00,Fechos,Não,0
+8501.53.00,Transformadores elétricos,Sim,0.18
+8606.30.00,Veículos ferroviários,Sim,0.15
+8701.00.00,Automóveis,Sim,0.25
+8802.91.00,Aviões,Não,0
+9003.12.00,Lentes e óculos,Sim,0.10
+9207.30.00,Instrumentos de corda,Não,0
+9405.10.00,Luminárias,Sim,0.15
+9503.00.00,Brinquedos,Não,0
+9602.10.00,Canetas,Sim,0.12
+9901.11.00,Importação com isenção,Sim,0.08
+0103.10.00,Ovinos vivos,Não,0
